@@ -2,6 +2,7 @@
 
 <img width="960" alt="aacs-showpage" src="https://github.com/user-attachments/assets/0dc32856-47df-4699-bdad-b18e7d383b42">
 
+
 Azure AI Content Safety est un service d'IA qui détecte le contenu nuisible généré par les utilisateurs et l'IA dans les applications et les services. Azure AI Content Safety comprend des API de texte et d'image qui vous permettent de détecter du matériel nuisible. Le Content Safety Studio interactif vous permet de visualiser, explorer et essayer du code d'exemple pour détecter du contenu nuisible dans différentes modalités.
 
 ## Analyseur de contenu textuel
