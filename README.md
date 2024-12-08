@@ -66,10 +66,6 @@ Analyseur de Contenu Textuel/
 │   └── style.css
 ├── templates/
 │   └── index.html
-└── tests/ [ En Cour]
-    ├── __init__.py
-    └── test_app.py
-
 Description des fichiers et dossiers :
 .env : Fichier contenant les variables d'environnement nécessaires pour l'application.
 app.py : Fichier principal de l'application Flask.
@@ -79,5 +75,3 @@ static/ : Dossier contenant les fichiers statiques (CSS, images, etc.).
 style.css : Fichier CSS pour le style de l'application.
 templates/ : Dossier contenant les templates HTML.
 index.html : Template principal de l'application.
-tests/ : Dossier contenant les tests unitaires.
-test_app.py : Fichier de tests pour l'application Flask.
